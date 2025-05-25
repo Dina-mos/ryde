@@ -1,5 +1,4 @@
-# Selenium Demo: Automated Location Polygon Drawing
-
+# Selenium Demo: Ryde
 This project demonstrates how to use Selenium WebDriver with Python to automate the process of logging into a web dashboard, navigating to a location creation page, and drawing a polygon on a map by simulating mouse clicks at random points.
 
 ## Features
